@@ -1,6 +1,6 @@
 # SwapnaSutra - AI-Powered Multilingual Dream Journal
 
-![SwapnaSutra Banner](./7ff976a8-84b7-4fe6-bc03-2c2dacc9159e.png)
+![SwapnaSutra Banner](assets/background/WhatsApp Image 2025-04-15 at 08.45.23_1a701a8a.jpg)
 
 ## "Decode your dreams, the spiritual way."
 
