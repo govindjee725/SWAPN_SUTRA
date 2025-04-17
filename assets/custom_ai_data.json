@@ -1,0 +1,302 @@
+[
+    {
+      "prompt": "You are falling from a great height.",
+      "meaning": "Loss of control or fear of failure."
+    },
+    {
+      "prompt": "You are flying without wings.",
+      "meaning": "Freedom, confidence, or spiritual elevation."
+    },
+    {
+      "prompt": "You are being chased by someone or something.",
+      "meaning": "Avoidance of a problem or fear in real life."
+    },
+    {
+      "prompt": "You are naked in public.",
+      "meaning": "Vulnerability, shame, or fear of being exposed."
+    },
+    {
+      "prompt": "You lose your teeth suddenly.",
+      "meaning": "Insecurity, aging, or communication anxiety."
+    },
+    {
+      "prompt": "You are taking an exam unprepared.",
+      "meaning": "Stress, fear of failure, or lack of confidence."
+    },
+    {
+      "prompt": "You are late for an important event.",
+      "meaning": "Feeling overwhelmed or fear of missing out."
+    },
+    {
+      "prompt": "You’re trapped in a small space.",
+      "meaning": "Feeling stuck or restricted in life."
+    },
+    {
+      "prompt": "You are lost in a big building or city.",
+      "meaning": "Lack of direction or uncertainty."
+    },
+    {
+      "prompt": "You are driving a car out of control.",
+      "meaning": "Lack of direction or control in your waking life."
+    },
+    {
+      "prompt": "You miss a bus, train, or flight.",
+      "meaning": "Missed opportunities or poor timing."
+    },
+    {
+      "prompt": "You see a snake.",
+      "meaning": "Hidden fears, transformation, or deception."
+    },
+    {
+      "prompt": "You are drowning in water.",
+      "meaning": "Emotional overwhelm or feeling powerless."
+    },
+    {
+      "prompt": "You can’t scream or speak.",
+      "meaning": "Feeling ignored or unable to express yourself."
+    },
+    {
+      "prompt": "You lose something valuable.",
+      "meaning": "Fear of loss or personal insecurity."
+    },
+    {
+      "prompt": "You are back in school again.",
+      "meaning": "Learning lessons, anxiety about performance."
+    },
+    {
+      "prompt": "You’re trying to use a phone but it won’t work.",
+      "meaning": "Communication barriers or disconnection."
+    },
+    {
+      "prompt": "You find hidden money or treasure.",
+      "meaning": "Self-worth, new opportunities, or potential."
+    },
+    {
+      "prompt": "You see yourself in a mirror.",
+      "meaning": "Self-reflection or identity concerns."
+    },
+    {
+      "prompt": "You see yourself die.",
+      "meaning": "Major life change or transformation."
+    },
+    {
+      "prompt": "You are crying uncontrollably.",
+      "meaning": "Emotional release or unresolved sadness."
+    },
+    {
+      "prompt": "You are laughing in a strange situation.",
+      "meaning": "Coping mechanism or emotional imbalance."
+    },
+    {
+      "prompt": "You are being attacked by an animal.",
+      "meaning": "Instinctual fears or anger."
+    },
+    {
+      "prompt": "You are floating or levitating.",
+      "meaning": "Spiritual growth or rising above stress."
+    },
+    {
+      "prompt": "You meet a celebrity.",
+      "meaning": "Aspiration, admiration, or self-recognition."
+    },
+    {
+      "prompt": "You find a secret door or room.",
+      "meaning": "Discovering hidden parts of yourself."
+    },
+    {
+      "prompt": "You are in your childhood home.",
+      "meaning": "Nostalgia, inner child, or unresolved issues."
+    },
+    {
+      "prompt": "You are in a beautiful natural landscape.",
+      "meaning": "Peace, balance, or desire for calm."
+    },
+    {
+      "prompt": "You are naked but no one notices.",
+      "meaning": "Self-acceptance or false fears."
+    },
+    {
+      "prompt": "You win a lot of money.",
+      "meaning": "Desire for abundance or luck."
+    },
+    {
+      "prompt": "You lose your voice.",
+      "meaning": "Powerlessness or lack of influence."
+    },
+    {
+      "prompt": "You dream of fire destroying something.",
+      "meaning": "Anger, transformation, or passion."
+    },
+    {
+      "prompt": "You see a loved one crying.",
+      "meaning": "Empathy, guilt, or emotional concern."
+    },
+    {
+      "prompt": "You are stuck in a loop or repeating day.",
+      "meaning": "Feeling trapped in routine or indecision."
+    },
+    {
+      "prompt": "You are being watched or followed.",
+      "meaning": "Paranoia, guilt, or fear of judgment."
+    },
+    {
+      "prompt": "You receive a mysterious letter or message.",
+      "meaning": "Hidden truth or important realization."
+    },
+    {
+      "prompt": "You are getting married.",
+      "meaning": "Union, commitment, or personal transition."
+    },
+    {
+      "prompt": "You see someone else getting married.",
+      "meaning": "New beginnings or reflecting on relationships."
+    },
+    {
+      "prompt": "You are pregnant (regardless of gender).",
+      "meaning": "New ideas, potential, or growth."
+    },
+    {
+      "prompt": "You are in a war zone.",
+      "meaning": "Inner conflict or external chaos."
+    },
+    {
+      "prompt": "You’re flying and suddenly fall.",
+      "meaning": "Loss of confidence or unexpected failure."
+    },
+    {
+      "prompt": "You dream of a robbery or being robbed.",
+      "meaning": "Violation of boundaries or insecurity."
+    },
+    {
+      "prompt": "You are walking endlessly with no destination.",
+      "meaning": "Searching for purpose or feeling aimless."
+    },
+    {
+      "prompt": "You are surrounded by animals.",
+      "meaning": "Instincts, primal energy, or emotional needs."
+    },
+    {
+      "prompt": "You are cooking or eating food.",
+      "meaning": "Nourishment, creativity, or comfort."
+    },
+    {
+      "prompt": "You meet a wise old man or woman.",
+      "meaning": "Inner guidance or life lessons."
+    },
+    {
+      "prompt": "You receive a gift from someone.",
+      "meaning": "Acknowledgment, love, or self-worth."
+    },
+    {
+      "prompt": "You dream of cleaning a messy space.",
+      "meaning": "Organizing your thoughts, emotions, or life."
+    },
+    {
+      "prompt": "You see rain falling gently.",
+      "meaning": "Cleansing, renewal, or emotional relief."
+    },
+    {
+      "prompt": "You wake up and realize you were dreaming inside a dream.",
+      "meaning": "Heightened awareness or confusion between reality and illusion."
+    },
+    {
+      "prompt": "You see your mother dying in a dream.",
+      "meaning": "Fear of losing emotional support or changes in the mother-child relationship."
+    },
+    {
+      "prompt": "You attend your father's funeral while he is alive.",
+      "meaning": "Desire for independence or changing dynamics with authority figures."
+    },
+    {
+      "prompt": "Your sibling dies unexpectedly in the dream.",
+      "meaning": "Fear of drifting apart or unresolved emotions between siblings."
+    },
+    {
+      "prompt": "A dead relative comes back to life in the dream.",
+      "meaning": "Unresolved grief or a message from your subconscious about them."
+    },
+    {
+      "prompt": "You see your child die in a dream.",
+      "meaning": "Fear of failing to protect something precious or anxiety about parenting."
+    },
+    {
+      "prompt": "You kill a relative accidentally in a dream.",
+      "meaning": "Inner conflict or guilt about your relationship with that person."
+    },
+    {
+      "prompt": "A relative dies and leaves you something in the dream.",
+      "meaning": "Inheritance of values, traits, or emotional burdens."
+    },
+    {
+      "prompt": "A relative is dying and calls your name.",
+      "meaning": "They symbolize a part of you or a need to reconnect emotionally."
+    },
+    {
+      "prompt": "You see multiple relatives dying at once.",
+      "meaning": "Feeling overwhelmed by change or fear of losing emotional support systems."
+    },
+    {
+      "prompt": "A dying relative gives you a message.",
+      "meaning": "Your subconscious delivering wisdom or closure through their image."
+    },
+    {
+      "prompt": "You cry over a relative’s death in the dream.",
+      "meaning": "Unexpressed grief or emotional release in your waking life."
+    },
+    {
+      "prompt": "You find a dead body of a relative.",
+      "meaning": "Buried emotions or repressed aspects of your relationship with them."
+    },
+    {
+      "prompt": "You are attending a relative’s funeral.",
+      "meaning": "Symbolic closure or letting go of past emotional attachments."
+    },
+    {
+      "prompt": "You speak with a deceased relative.",
+      "meaning": "Seeking guidance, reassurance, or closure from their memory."
+    },
+    {
+      "prompt": "Your relative is terminally ill in a dream.",
+      "meaning": "Fear of loss or feeling helpless in real life situations."
+    },
+    {
+      "prompt": "You dream of an unknown relative dying.",
+      "meaning": "Parts of your ancestry or identity are changing or being left behind."
+    },
+    {
+      "prompt": "You save a dying relative in a dream.",
+      "meaning": "Desire to heal or fix a relationship that feels broken."
+    },
+    {
+      "prompt": "Your partner or spouse dies in your dream.",
+      "meaning": "Fear of abandonment or major changes in your relationship."
+    },
+    {
+      "prompt": "You ignore a dying relative in the dream.",
+      "meaning": "Avoidance of emotional responsibility or unresolved guilt."
+    },
+    {
+      "prompt": "You dream of reliving a real-life relative’s death.",
+      "meaning": "Unprocessed grief or trauma re-emerging in your subconscious."
+    },
+    {
+      "prompt": "You laugh at a relative’s funeral in a dream.",
+      "meaning": "Coping with grief in unconventional ways or emotional repression."
+    },
+    {
+      "prompt": "Your relative turns into a ghost after death in the dream.",
+      "meaning": "Their memory is haunting you or you feel unsettled about something left unsaid."
+    },
+    {
+      "prompt": "You cannot cry at a relative’s death in the dream.",
+      "meaning": "Emotional numbness or internal conflict about that person."
+    },
+    {
+      "prompt": "A relative dies and no one cares in the dream.",
+      "meaning": "Feeling of isolation, being unheard, or fear of emotional detachment."
+    },
+    {
+      "prompt": "Your dead relative hugs you in a dream.",
+      "meaning": "Comfort, love, or a final goodbye coming from your subconscious."
+    }
+  ]

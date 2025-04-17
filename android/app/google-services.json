@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275627294897",
+    "project_id": "swapnasutr",
+    "storage_bucket": "swapnasutr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275627294897:android:2e3e1f566a2f7a1b752290",
+        "android_client_info": {
+          "package_name": "com.dream_verse.dream_verse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9QdZTr45FzXIRPJpR3FSj2GfShLcb2SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
